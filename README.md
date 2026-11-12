@@ -110,7 +110,8 @@ Je construis des produits SaaS de A à Z : l'API, l'interface, la base de donné
 |---------|----------------|------|
 | **Lumina TCF** | Plateforme de préparation au TCF Canada : entraînement, épreuves blanches, suivi de progression | [lumina-tcf.online](https://lumina-tcf.online) · [code](https://github.com/fogouang/lumina) |
 | **GoToGermany** | Préparation aux examens d'allemand (telc, ÖSD) pour les candidats camerounais | [prep-telc-osd.com](https://prep-telc-osd.com) · [code](https://github.com/fogouang/gotogermany) |
-| **Restaurant** | Menu digital pour cuisiniers et restaurants de quartier, consultable depuis un simple QR code | [code](https://github.com/fogouang/restaurant) |
+| **Restaurant** | Menu digital pour cuisiniers et restaurants de quartier, consultable depuis un simple QR code |· [app](https://app.prestalia.online) . [code](https://github.com/fogouang/restaurant) |
+| **Prestalia** | Marketplace qui met en relation clients et prestataires de services au Canada (Québec) : publication de missions, offres, réservation | [prestalia.online](https://prestalia.online) |
 
 ## 📊 Data & Machine Learning
 
